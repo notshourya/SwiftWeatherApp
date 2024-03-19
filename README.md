@@ -10,9 +10,10 @@ SwiftWeatherApp is a simple weather application built using Swift. It allows use
 ## Features
 
 - Current weather display
-- Weather forecast for the next 10 days
-- Hourly weather forecast for the next 10 hours
-- Search for weather in any location
+- Weather forecast for the next 10 days (currently works on MockData)
+- Hourly weather forecast for the next 10 hours (currently works on MockData)
+- TabBar that shows multiple cities
+- Search Bar in which cities can be searched
 - Displays temperature, humidity, wind speed, and other relevant weather information
 
 ## Technologies Used
